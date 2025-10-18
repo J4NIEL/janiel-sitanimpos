@@ -2,7 +2,7 @@
     "version": "2.0.0",
     "download": "https://keymaster.fivem.net/",
     "changelog": {
-        "1.0.0": [
+        "2.0.0": [
             "Debug fixed",
             "Sync Bug fixed"
         ]
