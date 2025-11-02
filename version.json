@@ -1,11 +1,12 @@
 {
-    "version": "3.1.0",
+    "version": "3.1.1",
     "download": "https://keymaster.fivem.net/",
     "changelog": {
         "3.0.0": [
             "Debug fixed",
             "Sync Bug fixed",
-            "Animpos Command Added"
+            "Animpos Command Added",
+            "ALL BUG FIXED",
         ]
     }
 }
